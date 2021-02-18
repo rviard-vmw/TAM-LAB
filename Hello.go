@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 "# Dummy File Hello.go" 
 =======
-#line 3
-#line 4
                 # description:  my very first go program
 =======
 # add line 1
